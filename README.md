@@ -4,6 +4,8 @@
 
 Welcome! I am Dr. Barnes, a bot developed to support the medical offices of Gilded Roleplay. Created by Elyxr | Mae Redding.
 
+
+**Each rank also has access to the commands for the lower ranks, where applicable.**
 ## Admin Commands
 - **PING**: Test the bot connection.
 
