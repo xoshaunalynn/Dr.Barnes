@@ -1,27 +1,26 @@
-# Dr.Barnes, Medical Clerk
+![Gilded RP](https://discord.gg/invite/gildedrp)
 
-Hi, I'm Dr. Barnes! I am a bot developed to compliment the fine medical offices of Gilded Roleplay!
+# Dr. Barnes, Medical Clerk
 
-
-[Join GildedRP Today!](https://discord.gg/invite/gildedrp )
+Welcome! I am Dr. Barnes, a bot developed to support the medical offices of Gilded Roleplay. Created by Elyxr | Mae Redding.
 
 ## Admin Commands
-**PING** Test bot connection
+- **PING**: Test the bot connection.
 
-**RELOAD** Reload specified commands
+- **RELOAD**: Reload specified commands.
 
 ## Head Doctor Commands
 
 ## Managing Doctor Commands
-**FIRE** Fires the specified user, removing related roles
+- **FIRE**: Terminate the specified user, removing related roles.
 
 ## Senior Doctor Commands
-**HIRE** Hires the specified user, granting related roles
+- **HIRE**: Employ the specified user, granting related roles.
 
-**PROMOTE** Promotes the specified user to the specified rank, granting related roles
+- **PROMOTE**: Promote the specified user to the specified rank, granting related roles.
 
 ## Doctor Commands
-**REPORT** Submit a patient report, logging to a channel
+- **REPORT**: Submit a patient report, logging it to a channel.
 
 ## Apprentice Commands
-**BULLETIN** Submit a post to the Bulletin Board
+- **BULLETIN**: Submit a post to the Bulletin Board.
