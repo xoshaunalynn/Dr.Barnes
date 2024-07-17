@@ -3,23 +3,25 @@
 # Dr. Barnes, Medical Clerk
 Welcome! I am Dr. Barnes, a bot developed to support the medical offices of Gilded Roleplay.
 
-## Admin Commands
+## Gilded Discord 
+### Admin Commands
 - **PING**: Test the bot connection. **TO DO**
 - **RELOAD**: Reload specified commands. **TO DO**
 
-## Head Doctor Commands
+## Commonwealth Medical Office
+### CMO Head Doctor Commands
 
-## Managing Doctor Commands
+### CMO Managing Doctor Commands
 - **FIRE**: Terminate the specified user, removing related roles. **TO DO**
 
-## Senior Doctor Commands
+### CMO Senior Doctor Commands
 - **HIRE**: Employ the specified user, granting related roles. **TO DO**
 - **PROMOTE**: Promote the specified user to the specified rank, granting related roles. **TO DO**
 
-## Doctor Commands
+### Doctor Commands
 - **REPORT**: Submit a patient report, logging it to a channel. **TO DO**
 
-## Apprentice Commands
+### Apprentice Commands
 - **BULLETIN**: Submit a post to the Bulletin Board. **TO DO**
 
-**Each rank also has access to the commands for the lower ranks, where applicable.**
+**Each rank for each group also has access to the commands for the lower ranks of that group, where applicable.**
