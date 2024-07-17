@@ -5,10 +5,9 @@
 Welcome! I am Dr. Barnes, a bot developed to support the medical offices of Gilded Roleplay. Created by Elyxr | Mae Redding.
 
 
-**Each rank also has access to the commands for the lower ranks, where applicable.**
+where applicable.**
 ## Admin Commands
 - **PING**: Test the bot connection.
-
 - **RELOAD**: Reload specified commands.
 
 ## Head Doctor Commands
@@ -18,7 +17,6 @@ Welcome! I am Dr. Barnes, a bot developed to support the medical offices of Gild
 
 ## Senior Doctor Commands
 - **HIRE**: Employ the specified user, granting related roles.
-
 - **PROMOTE**: Promote the specified user to the specified rank, granting related roles.
 
 ## Doctor Commands
@@ -26,3 +24,4 @@ Welcome! I am Dr. Barnes, a bot developed to support the medical offices of Gild
 
 ## Apprentice Commands
 - **BULLETIN**: Submit a post to the Bulletin Board.
+**Each rank also has access to the commands for the lower ranks, 
