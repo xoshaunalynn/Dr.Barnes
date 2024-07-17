@@ -24,4 +24,5 @@ where applicable.**
 
 ## Apprentice Commands
 - **BULLETIN**: Submit a post to the Bulletin Board.
-**Each rank also has access to the commands for the lower ranks, 
+
+**Each rank also has access to the commands for the lower ranks, where applicable.**
