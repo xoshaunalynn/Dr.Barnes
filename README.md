@@ -1,22 +1,22 @@
-## Dr.Barnes, Medical Clerk
+# Dr.Barnes, Medical Clerk
 
 Hi, I'm Dr. Barnes! I am a bot developed to compliment the fine medical offices of Gilded Roleplay!
 
 
 [Join GildedRP Today!](https://discord.gg/invite/gildedrp )
 
-# Admin Commands
+### Admin Commands
 
-ping - Test bot connection
+**ping** Test bot connection
 
-reload - Reload specified commands
+**reload** Reload specified commands
 
-# Head Doctor Commands
+### Head Doctor Commands
 
-# Managing Doctor Commands
+### Managing Doctor Commands
 
-# Senior Doctor Commands
+### Senior Doctor Commands
 
-# Doctor Commands
+### Doctor Commands
 
-# Apprentice Commands
+### Apprentice Commands
