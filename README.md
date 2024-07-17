@@ -19,7 +19,8 @@ Welcome! I am Dr. Barnes, a bot developed to support the medical offices of Gild
 - **PROMOTE**: Promote the specified user to the specified rank, granting related roles. **TO DO**
 
 ### Doctor Commands
-- **REPORT**: Submit a patient report, logging it to a channel. **TO DO**
+- **PRESCRIBE**: Submit a prescription, logging it to a channel. **TO DO**
 
 ### Apprentice Commands
 - **BULLETIN**: Submit a post to the Bulletin Board. **TO DO**
+- **REPORT**: Submit a patient report, logging it to a channel. **TO DO**
